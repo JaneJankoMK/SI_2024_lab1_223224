@@ -1,0 +1,35 @@
+commit f6a9aa5e79a6d24f6813cab8ef0ee4730bc565dc (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:22:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 820182aadc58010c98fd1bd84ec9187a52479d82
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:08:45 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit 02bc94d086495bdc0a2d5243416de042b7168fe7 (origin/bug1, bug1)
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:10:42 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 636e359bc555592df1db6e3b37f48ea261e929ac
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:07:21 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 945815733799ff99ab6152c122130919e27c77a3
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:06:15 2024 +0200
+
+    Add starter code
+
+commit c365ed3067bb3fce04ae42b007a5591abed3d34d
+Author: Jane Jankoski <jane.jankoski@gmail.com>
+Date:   Tue Apr 2 23:02:57 2024 +0200
+
+    Initial commit
